@@ -20,3 +20,7 @@ OpenCV:
 Applications:
 - Valuable for quality control, marketing research, and retail analytics.
 - Suitable for standalone images or real-time video streams.
+
+Requirements:
+- python
+- OpenCV
